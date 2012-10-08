@@ -1,3 +1,0 @@
-"C:\\Documents and Settings\\aluno\\Desktop\\P14\\ColecaoInteiros.java"
-"C:\\Documents and Settings\\aluno\\Desktop\\P14\\Interface.java"
-"C:\\Documents and Settings\\aluno\\Desktop\\P14\\Principal.java"

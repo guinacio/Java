@@ -1,6 +1,0 @@
-"C:\\Documents and Settings\\aluno\\Meus documentos\\JCreator LE\\MyProjects\\P11\\Apoio.java"
-"C:\\Documents and Settings\\aluno\\Meus documentos\\JCreator LE\\MyProjects\\P11\\Chefe.java"
-"C:\\Documents and Settings\\aluno\\Meus documentos\\JCreator LE\\MyProjects\\P11\\Funcionario.java"
-"C:\\Documents and Settings\\aluno\\Meus documentos\\JCreator LE\\MyProjects\\P11\\Interface.java"
-"C:\\Documents and Settings\\aluno\\Meus documentos\\JCreator LE\\MyProjects\\P11\\Pessoa.java"
-"C:\\Documents and Settings\\aluno\\Meus documentos\\JCreator LE\\MyProjects\\P11\\Principal.java"

@@ -1,3 +1,0 @@
-"C:\\Users\\Guilherme\\Desktop\\ \\INE5402 - Programação Orientada a Objetos I\\Prog. Orientada Objetos\\T1\\Interface.java"
-"C:\\Users\\Guilherme\\Desktop\\ \\INE5402 - Programação Orientada a Objetos I\\Prog. Orientada Objetos\\T1\\Principal.java"
-"C:\\Users\\Guilherme\\Desktop\\ \\INE5402 - Programação Orientada a Objetos I\\Prog. Orientada Objetos\\T1\\Retangulo.java"

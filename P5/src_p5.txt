@@ -1,3 +1,0 @@
-"E:\\Prog. Orientada Objetos\\P5\\Interface.java"
-"E:\\Prog. Orientada Objetos\\P5\\Ponto.java"
-"E:\\Prog. Orientada Objetos\\P5\\Principal.java"
