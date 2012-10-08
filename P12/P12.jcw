@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>P12</label>
+	</settings>
+	<users>
+		<user>
+			<path>P12.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>P12.jcp</path>
+		</project>
+		<project>
+			<path>..\P13\P13.jcp</path>
+		</project>
+	</projects>
+</workspace>
