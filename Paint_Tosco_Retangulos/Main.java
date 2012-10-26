@@ -31,7 +31,6 @@ class EdRetangulo implements MouseListener {
   q == 0: esperando 1ro ponto 
   q == 1: esperando 2ro ponto */
   int x0,y0;
-  int pal = 0;
   Color cor = Color.white;
   
   public void  mouseClicked(MouseEvent e) {
